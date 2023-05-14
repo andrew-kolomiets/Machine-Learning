@@ -1,5 +1,5 @@
 # Machine Learning
-.
+`.
 ├── Lab 1
 │   ├── avocado.csv
 │   └── Лінійна регресія.ipynb
@@ -43,4 +43,4 @@
 ├── Lab 5
 │   ├── Video_games_esrb_rating.csv
 │   └── Кластеризація.ipynb
-└── LICENSE
+└── LICENSE`
